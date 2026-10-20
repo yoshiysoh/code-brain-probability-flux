@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HCP recordings (not redistributable)
+data/HCP_data_task/
+
+# Fresh runs, logs and regenerated outputs
+data/20*/
+logs/
+figures/
+executed/
