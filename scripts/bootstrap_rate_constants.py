@@ -6,11 +6,11 @@ couplings are re-inferred with a spin-independent rate constant A (SI) and
 a spin-dependent A_k (SD); the stationary flux of each fitted model is
 compared with the observed flux.
 
-arrhenius : least squares (fig. S11)
+arrhenius : least squares (fig-s12)
 glauber   : gradient descent (5000 steps, learning rate 0.01) with A fixed
             at twice the 99th percentile of the resampled rates (SI), and
             A_k scaled from the point estimate by the same factor (SD)
-            (fig. S12)
+            (fig-s13)
 
 Reads the HCP recordings (data/HCP_data_task/) and data/inferred_networks.h5
 and writes data/<YYYY-MM-DD>/rate_constant_bootstrap.h5 with groups

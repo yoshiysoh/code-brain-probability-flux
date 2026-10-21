@@ -1,5 +1,5 @@
 """Bootstrap the asymmetry ratio of the inferred network for 4 to 6
-clusters (fig. S13).
+clusters (fig-s14).
 
 The tree is cut into K = 4, 5, 6 clusters; for each task the couplings are
 inferred by least squares (Arrhenius), and the ratio of the Frobenius

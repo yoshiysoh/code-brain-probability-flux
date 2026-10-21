@@ -4,12 +4,12 @@ Reads data/aggregates.h5 (the 7-cluster coarse-graining) and writes
 data/<YYYY-MM-DD>/inferred_networks.h5 with one group per model:
 
 arrhenius          least squares, one rate constant A per task (Fig. 4)
-arrhenius_spindep  least squares, one A_k per spin (fig. S11)
+arrhenius_spindep  least squares, one A_k per spin (fig-s12)
 glauber            gradient descent, A = twice the 99th-percentile rate
-                   (figs. S8, S9, S12, S24)
-glauber_spindep    least squares, one A_k per spin (fig. S12)
+                   (fig-s08, fig-s11, fig-s13, fig-s24)
+glauber_spindep    least squares, one A_k per spin (fig-s13)
 shared_network     gradient descent, one Arrhenius network for all tasks
-                   with a task-specific external input (figs. S14, S15)
+                   with a task-specific external input (fig-s15, fig-s16)
 
 Each group holds beta_J (tasks, N, N), beta_h (tasks, N), rate_const and
 the final loss or least-squares residuals.

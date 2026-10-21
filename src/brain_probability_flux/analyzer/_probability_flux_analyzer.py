@@ -495,7 +495,7 @@ class PFA:
 
     def perform_PCA(self):
         # pca
-        """PCA of the parcel z scores (fig. S2)."""
+        """PCA of the parcel z scores (fig-s02)."""
         pca = PCA(svd_solver="full")
         pca.fit(self.zscore)
         vectors = pca.components_

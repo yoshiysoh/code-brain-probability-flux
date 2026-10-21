@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the paper below and this software."
-title: "Code for: Distinct weak antisymmetric interactions shape human brain functions as probability fluxes"
+title: "Code and data: Distinct weak antisymmetric interactions shape human brain functions as probability fluxes"
 type: software
 authors:
   - family-names: "Horiike"
