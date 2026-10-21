@@ -12,7 +12,7 @@ settings/<name>/ : one group per coarse-graining
     task<k>/ : states, source, target, count (transition counts between
         state indices), waiting_time (dwell time in each state) and the
         total observation time (attribute total_time)
-pc_grid/ : flux on the grid of the first two PC scores (fig. S2)
+pc_grid/ : flux on the grid of the first two PC scores (fig-s02)
     bin_edges, bin_pos and, per task, the normalized histogram and the
     bootstrap mean flux and confidence ellipses
 
@@ -43,12 +43,12 @@ log = logging.getLogger(__name__)
 # name -> (dendrogram threshold, number of clusters, binarization order)
 SETTINGS = {
     "threshold_0.70": (0.70, None, 0),  # 7 clusters, the main analysis
-    "threshold_0.70_order1": (0.70, None, 1),  # fig. S5/S21 dynamic
-    "threshold_0.70_order2": (0.70, None, 2),  # fig. S5/S21 curve
-    "threshold_0.80": (0.80, None, 0),  # 4 clusters (figs. S4, S20)
+    "threshold_0.70_order1": (0.70, None, 1),  # fig-s05/fig-s21 dynamic
+    "threshold_0.70_order2": (0.70, None, 2),  # fig-s05/fig-s21 curve
+    "threshold_0.80": (0.80, None, 0),  # 4 clusters (fig-s04, fig-s20)
     "threshold_0.72": (0.72, None, 0),  # 5 clusters
     "threshold_0.71": (0.71, None, 0),  # 6 clusters
-    "maxclust_4": (None, 4, 0),  # tree cut into 4 clusters (figs. S7, S13)
+    "maxclust_4": (None, 4, 0),  # tree cut into 4 clusters (fig-s07, fig-s14)
     "maxclust_5": (None, 5, 0),
     "maxclust_6": (None, 6, 0),
 }

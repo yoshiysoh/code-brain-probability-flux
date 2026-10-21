@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="254.461532pt" height="109.185347pt" viewBox="0 0 254.461532 109.185347" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T15:59:56.349835</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 109.185347 
+L 254.461532 109.185347 
+L 254.461532 0 
+L 0 0 
+L 0 109.185347 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.030078 66.591597 
+L 93.892275 66.591597 
+L 93.892275 8.6 
+L 22.030078 8.6 
+L 22.030078 66.591597 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(27.971661 85.109566) rotate(-90)">Social</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(36.954435 84.271284) rotate(-90)">Motor</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(45.93721 81.772066) rotate(-90)">Rest</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(54.919985 89.833003) rotate(-90)">Emotion</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(63.902759 93.726753) rotate(-90)">Relational</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(72.757214 92.889253) rotate(-90)">Gambling</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="text_7">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(81.739988 109.185347) rotate(-90)">Working memory</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="text_8">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(90.722763 93.735347) rotate(-90)">Language</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="md3d2635411" d="M 0 0 
+L -2.45 0 
+" style="stroke: #000000; stroke-width: 0.56"/>
+      </defs>
+      <g>
+       <use xlink:href="#md3d2635411" x="22.030078" y="66.591597" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif; text-anchor: end" x="17.130078" y="68.466597" transform="rotate(-0 17.130078 68.466597)">0.00</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#md3d2635411" x="22.030078" y="53.579054" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif; text-anchor: end" x="17.130078" y="55.454054" transform="rotate(-0 17.130078 55.454054)">0.25</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#md3d2635411" x="22.030078" y="40.566511" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif; text-anchor: end" x="17.130078" y="42.441511" transform="rotate(-0 17.130078 42.441511)">0.50</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#md3d2635411" x="22.030078" y="27.553968" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif; text-anchor: end" x="17.130078" y="29.428968" transform="rotate(-0 17.130078 29.428968)">0.75</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#md3d2635411" x="22.030078" y="14.541424" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif; text-anchor: end" x="17.130078" y="16.416424" transform="rotate(-0 17.130078 16.416424)">1.00</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif; text-anchor: middle" x="3.75" y="37.595798" transform="rotate(-90 3.75 37.595798)">Distance</text>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path d="M 44.487015 66.591597 
+L 44.487015 64.889444 
+L 53.469789 64.889444 
+L 53.469789 66.591597 
+" clip-path="url(#p188681cb35)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 62.452564 66.591597 
+L 62.452564 65.719701 
+L 71.435339 65.719701 
+L 71.435339 66.591597 
+" clip-path="url(#p188681cb35)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 66.943951 65.719701 
+L 66.943951 65.38721 
+L 80.418113 65.38721 
+L 80.418113 66.591597 
+" clip-path="url(#p188681cb35)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 48.978402 64.889444 
+L 48.978402 63.986132 
+L 73.681032 63.986132 
+L 73.681032 65.38721 
+" clip-path="url(#p188681cb35)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 35.50424 66.591597 
+L 35.50424 63.496924 
+L 61.329717 63.496924 
+L 61.329717 63.986132 
+" clip-path="url(#p188681cb35)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 48.416979 63.496924 
+L 48.416979 61.733006 
+L 89.400888 61.733006 
+L 89.400888 66.591597 
+" clip-path="url(#p188681cb35)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 26.521465 66.591597 
+L 26.521465 60.83123 
+L 68.908933 60.83123 
+L 68.908933 61.733006 
+" clip-path="url(#p188681cb35)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.030078 66.591597 
+L 22.030078 8.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.56; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 22.030078 66.591597 
+L 93.892275 66.591597 
+" style="fill: none; stroke: #000000; stroke-width: 0.56; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <!-- Interaction $\boldsymbol{J}$, Baker's $\gamma$=0.093 -->
+    <g transform="translate(24.736177 4.4)">
+     <text>
+      <tspan x="0" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">I</tspan>
+      <tspan x="1.38916" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">n</tspan>
+      <tspan x="4.169922" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">t</tspan>
+      <tspan x="5.559082" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">e</tspan>
+      <tspan x="8.339844" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">r</tspan>
+      <tspan x="10.004883" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">a</tspan>
+      <tspan x="12.785645" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">c</tspan>
+      <tspan x="15.285645" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">t</tspan>
+      <tspan x="16.674805" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">i</tspan>
+      <tspan x="17.785645" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">o</tspan>
+      <tspan x="20.566406" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">n</tspan>
+      <tspan x="23.347168" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="27.51709" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">,</tspan>
+      <tspan x="28.90625" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="30.29541" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">B</tspan>
+      <tspan x="33.630371" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">a</tspan>
+      <tspan x="36.411133" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">k</tspan>
+      <tspan x="38.911133" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">e</tspan>
+      <tspan x="41.691895" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">r</tspan>
+      <tspan x="43.356934" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">'</tspan>
+      <tspan x="44.311523" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">s</tspan>
+      <tspan x="46.811523" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="50.981445" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">=</tspan>
+      <tspan x="53.901367" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">0</tspan>
+      <tspan x="56.682129" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">.</tspan>
+      <tspan x="58.071289" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">0</tspan>
+      <tspan x="60.852051" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">9</tspan>
+      <tspan x="63.632812" y="-0.40625" style="font-size: 5px; font-family: 'Helvetica'">3</tspan>
+      <tspan x="24.736328" y="-0.40625" style="font-style: oblique; font-weight: 700; font-size: 5px; font-family: 'Helvetica'">J</tspan>
+      <tspan x="48.200684" y="-0.40625" style="font-style: oblique; font-size: 5px; font-family: 'Helvetica'">γ</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 100.542755 66.591597 
+L 172.404953 66.591597 
+L 172.404953 8.6 
+L 100.542755 8.6 
+L 100.542755 66.591597 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_9">
+     <g id="text_16">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(106.484338 85.109566) rotate(-90)">Social</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="text_17">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(115.338793 109.185347) rotate(-90)">Working memory</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="text_18">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(124.321567 92.889253) rotate(-90)">Gambling</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="text_19">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(133.432662 93.726753) rotate(-90)">Relational</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="text_20">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(142.415437 81.772066) rotate(-90)">Rest</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="text_21">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(151.398212 89.833003) rotate(-90)">Emotion</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="text_22">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(160.380986 84.271284) rotate(-90)">Motor</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="text_23">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(169.235441 93.735347) rotate(-90)">Language</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#md3d2635411" x="100.542755" y="66.591597" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#md3d2635411" x="100.542755" y="53.579054" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#md3d2635411" x="100.542755" y="40.566511" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#md3d2635411" x="100.542755" y="27.553968" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#md3d2635411" x="100.542755" y="14.541424" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 122.999692 66.591597 
+L 122.999692 66.009533 
+L 131.982467 66.009533 
+L 131.982467 66.591597 
+" clip-path="url(#pb0f4d1e702)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 114.016918 66.591597 
+L 114.016918 65.720423 
+L 127.49108 65.720423 
+L 127.49108 66.009533 
+" clip-path="url(#pb0f4d1e702)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 140.965242 66.591597 
+L 140.965242 65.535926 
+L 149.948016 65.535926 
+L 149.948016 66.591597 
+" clip-path="url(#pb0f4d1e702)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 145.456629 65.535926 
+L 145.456629 65.22678 
+L 158.930791 65.22678 
+L 158.930791 66.591597 
+" clip-path="url(#pb0f4d1e702)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 120.753999 65.720423 
+L 120.753999 64.45545 
+L 152.19371 64.45545 
+L 152.19371 65.22678 
+" clip-path="url(#pb0f4d1e702)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 136.473854 64.45545 
+L 136.473854 63.208426 
+L 167.913566 63.208426 
+L 167.913566 66.591597 
+" clip-path="url(#pb0f4d1e702)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 105.034143 66.591597 
+L 105.034143 61.590287 
+L 152.19371 61.590287 
+L 152.19371 63.208426 
+" clip-path="url(#pb0f4d1e702)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 100.542755 66.591597 
+L 100.542755 8.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.56; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 100.542755 66.591597 
+L 172.404953 66.591597 
+" style="fill: none; stroke: #000000; stroke-width: 0.56; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_24">
+    <!-- Symmetric $\boldsymbol{J}^\mathrm{(s)}$, Baker's $\gamma$=0.081 -->
+    <g transform="translate(100.998854 4.4)">
+     <text>
+      <tspan x="0" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">S</tspan>
+      <tspan x="3.334961" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">y</tspan>
+      <tspan x="5.834961" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">m</tspan>
+      <tspan x="10" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">m</tspan>
+      <tspan x="14.165039" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">e</tspan>
+      <tspan x="16.945801" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">t</tspan>
+      <tspan x="18.334961" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">r</tspan>
+      <tspan x="20" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">i</tspan>
+      <tspan x="21.11084" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">c</tspan>
+      <tspan x="23.61084" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="32.037949" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">,</tspan>
+      <tspan x="33.427109" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="34.81627" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">B</tspan>
+      <tspan x="38.15123" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">a</tspan>
+      <tspan x="40.931992" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">k</tspan>
+      <tspan x="43.431992" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">e</tspan>
+      <tspan x="46.212754" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">r</tspan>
+      <tspan x="47.877793" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">'</tspan>
+      <tspan x="48.832383" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">s</tspan>
+      <tspan x="51.332383" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="55.502305" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">=</tspan>
+      <tspan x="58.422227" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">0</tspan>
+      <tspan x="61.202988" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">.</tspan>
+      <tspan x="62.592148" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">0</tspan>
+      <tspan x="65.37291" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">8</tspan>
+      <tspan x="68.153672" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">1</tspan>
+      <tspan x="25" y="-0.625" style="font-style: oblique; font-weight: 700; font-size: 5px; font-family: 'Helvetica'">J</tspan>
+      <tspan x="27.826426" y="-2.451562" style="font-size: 3.5px; font-family: 'Helvetica'">(</tspan>
+      <tspan x="28.991953" y="-2.451562" style="font-size: 3.5px; font-family: 'Helvetica'">s</tspan>
+      <tspan x="30.741953" y="-2.451562" style="font-size: 3.5px; font-family: 'Helvetica'">)</tspan>
+      <tspan x="52.721543" y="-0.625" style="font-style: oblique; font-size: 5px; font-family: 'Helvetica'">γ</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 179.055433 66.591597 
+L 250.91763 66.591597 
+L 250.91763 8.6 
+L 179.055433 8.6 
+L 179.055433 66.591597 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_17">
+     <g id="text_25">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(184.997016 89.833003) rotate(-90)">Emotion</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="text_26">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(193.97979 84.271284) rotate(-90)">Motor</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="text_27">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(202.962565 93.726753) rotate(-90)">Relational</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="text_28">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(211.817019 92.889253) rotate(-90)">Gambling</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="text_29">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(220.799794 109.185347) rotate(-90)">Working memory</text>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="text_30">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(229.910889 81.772066) rotate(-90)">Rest</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="text_31">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(238.893664 85.109566) rotate(-90)">Social</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="text_32">
+      <text style="font-size: 5px; font-family: 'Helvetica', 'Arial', sans-serif" transform="translate(247.748118 93.735347) rotate(-90)">Language</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_11">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#md3d2635411" x="179.055433" y="66.591597" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#md3d2635411" x="179.055433" y="53.579054" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#md3d2635411" x="179.055433" y="40.566511" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#md3d2635411" x="179.055433" y="27.553968" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#md3d2635411" x="179.055433" y="14.541424" style="stroke: #000000; stroke-width: 0.56"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_3">
+    <path d="M 201.51237 66.591597 
+L 201.51237 45.277773 
+L 210.495144 45.277773 
+L 210.495144 66.591597 
+" clip-path="url(#p498441fb20)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 219.477919 66.591597 
+L 219.477919 39.988455 
+L 228.460694 39.988455 
+L 228.460694 66.591597 
+" clip-path="url(#p498441fb20)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 223.969306 39.988455 
+L 223.969306 36.692339 
+L 237.443468 36.692339 
+L 237.443468 66.591597 
+" clip-path="url(#p498441fb20)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 206.003757 45.277773 
+L 206.003757 30.515619 
+L 230.706387 30.515619 
+L 230.706387 36.692339 
+" clip-path="url(#p498441fb20)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 192.529595 66.591597 
+L 192.529595 25.712047 
+L 218.355072 25.712047 
+L 218.355072 30.515619 
+" clip-path="url(#p498441fb20)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 205.442333 25.712047 
+L 205.442333 14.607912 
+L 246.426243 14.607912 
+L 246.426243 66.591597 
+" clip-path="url(#p498441fb20)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+    <path d="M 183.54682 66.591597 
+L 183.54682 11.361505 
+L 225.934288 11.361505 
+L 225.934288 14.607912 
+" clip-path="url(#p498441fb20)" style="fill: none; stroke: #000000; stroke-width: 0.56"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 179.055433 66.591597 
+L 179.055433 8.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.56; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 179.055433 66.591597 
+L 250.91763 66.591597 
+" style="fill: none; stroke: #000000; stroke-width: 0.56; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_33">
+    <!-- Antisymmetric $\boldsymbol{J}^\mathrm{(a)}$, Baker's $\gamma$=0.977 -->
+    <g transform="translate(175.511532 4.4)">
+     <text>
+      <tspan x="0" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">A</tspan>
+      <tspan x="3.334961" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">n</tspan>
+      <tspan x="6.115723" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">t</tspan>
+      <tspan x="7.504883" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">i</tspan>
+      <tspan x="8.615723" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">s</tspan>
+      <tspan x="11.115723" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">y</tspan>
+      <tspan x="13.615723" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">m</tspan>
+      <tspan x="17.780762" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">m</tspan>
+      <tspan x="21.945801" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">e</tspan>
+      <tspan x="24.726562" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">t</tspan>
+      <tspan x="26.115723" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">r</tspan>
+      <tspan x="27.780762" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">i</tspan>
+      <tspan x="28.891602" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">c</tspan>
+      <tspan x="31.391602" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="40.015244" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">,</tspan>
+      <tspan x="41.404404" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="42.793564" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">B</tspan>
+      <tspan x="46.128525" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">a</tspan>
+      <tspan x="48.909287" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">k</tspan>
+      <tspan x="51.409287" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">e</tspan>
+      <tspan x="54.190049" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">r</tspan>
+      <tspan x="55.855088" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">'</tspan>
+      <tspan x="56.809678" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">s</tspan>
+      <tspan x="59.309678" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'"> </tspan>
+      <tspan x="63.4796" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">=</tspan>
+      <tspan x="66.399521" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">0</tspan>
+      <tspan x="69.180283" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">.</tspan>
+      <tspan x="70.569443" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">9</tspan>
+      <tspan x="73.350205" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">7</tspan>
+      <tspan x="76.130967" y="-0.625" style="font-size: 5px; font-family: 'Helvetica'">7</tspan>
+      <tspan x="32.780762" y="-0.625" style="font-style: oblique; font-weight: 700; font-size: 5px; font-family: 'Helvetica'">J</tspan>
+      <tspan x="35.607188" y="-2.451562" style="font-size: 3.5px; font-family: 'Helvetica'">(</tspan>
+      <tspan x="36.772715" y="-2.451562" style="font-size: 3.5px; font-family: 'Helvetica'">a</tspan>
+      <tspan x="38.719248" y="-2.451562" style="font-size: 3.5px; font-family: 'Helvetica'">)</tspan>
+      <tspan x="60.698838" y="-0.625" style="font-style: oblique; font-size: 5px; font-family: 'Helvetica'">γ</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p188681cb35">
+   <rect x="22.030078" y="8.6" width="71.862197" height="57.991597"/>
+  </clipPath>
+  <clipPath id="pb0f4d1e702">
+   <rect x="100.542755" y="8.6" width="71.862197" height="57.991597"/>
+  </clipPath>
+  <clipPath id="p498441fb20">
+   <rect x="179.055433" y="8.6" width="71.862197" height="57.991597"/>
+  </clipPath>
+ </defs>
+</svg>

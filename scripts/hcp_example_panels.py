@@ -5,7 +5,7 @@ shipped results: they need the HCP recordings in data/HCP_data_task/.
 
 figures/fig-01/f, g, h  binarization, state raster and transitions (Fig. 1)
 figures/fig-s05/a-f     the static, dynamic and curve binarizations
-figures/fig-s21/a-f     the same panels, repeated in fig. S21
+figures/fig-s21/a-f     the same panels, repeated in fig-s21
 
 Usage: python scripts/hcp_example_panels.py
 """
@@ -127,7 +127,7 @@ def fig1_panels(recording, num_clusters, out_dir):
 
 
 def binarization_panels(pfa, num_clusters, out_dirs):
-    """Panels a-f of figs. S5 and S21: binarization at the zeros of the z
+    """Panels a-f of fig-s05 and fig-s21: binarization at the zeros of the z
     score's 0th, 1st and 2nd derivative."""
     names = [
         "Static transformation",

@@ -1,4 +1,4 @@
-"""Bootstrap the empirical state distribution of each task (fig. S10).
+"""Bootstrap the empirical state distribution of each task (fig-s09).
 
 The binarized time points of each task are resampled with replacement
 and the distribution over the 2^N states is recomputed.

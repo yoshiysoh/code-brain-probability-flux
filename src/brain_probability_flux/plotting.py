@@ -124,7 +124,7 @@ def parcel_correlation(data_dir=None):
 
 
 def load_pc_grid(data_dir=None):
-    """Flux on the grid of the first two PC scores (fig. S2): bin edges,
+    """Flux on the grid of the first two PC scores (fig-s02): bin edges,
     bin centers, and one summary dict per task."""
     path = Path(data_dir or DATA_DIR) / AGGREGATES
     with h5py.File(path, "r") as f:
@@ -340,7 +340,7 @@ def plot_rate_constant_comparison(
     loss_legend_loc="best",
     r_ylim=(0, 1),
 ):
-    """fig-s11/fig-s12 panels comparing spin-independent (SI) and
+    """fig-s12/fig-s13 panels comparing spin-independent (SI) and
     spin-dependent (SD) rate constants.
 
     a: A_k per cluster and task (bars: point estimates; error bars: the
@@ -949,20 +949,20 @@ def model_flux_matrix(
 
 
 # ── Task-color palettes (two genuinely different conventions in use — see
-# fig-s13 vs fig-s10; kept distinct rather than silently unified) ──────────
+# fig-s14 vs fig-s09; kept distinct rather than silently unified) ──────────
 def task_colors_stepped(n: int = NUM_TASKS):
     """plt.cm.viridis(t/8) per task — fig-s01/s02/s13/s16's convention."""
     return [plt.cm.viridis(t / 8) for t in range(n)]
 
 
 def task_colors_linspace(n: int = NUM_TASKS):
-    """plt.cm.viridis(linspace(0,1,n)) — fig-s10's convention."""
+    """plt.cm.viridis(linspace(0,1,n)) — fig-s09's convention."""
     return plt.cm.viridis(np.linspace(0, 1, n))
 
 
 # ── Misc colormaps ─────────────────────────────────────────────────────────
 def pvalue_colormap():
-    """Diverging Reds_r/Blues colormap for p-value heatmaps (fig-s16)."""
+    """Diverging Reds_r/Blues colormap for p-value heatmaps (fig-s17)."""
     r = plt.cm.Reds_r(np.linspace(0, 0.5, 256))
     b = plt.cm.Blues(np.linspace(0, 1, 256))
     c = np.vstack((r, b))

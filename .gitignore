@@ -16,5 +16,6 @@ data/HCP_data_task/
 # Fresh runs, logs and regenerated outputs
 data/20*/
 logs/
-figures/
+# The brain-surface renders reused by the notebooks are regenerated
+figures/parcellation/
 executed/
