@@ -273,7 +273,7 @@ If you use this code or data, please cite:
 }
 ```
 
-and the archived software: Yoshiaki Horiike and Shin Fujishiro, *Code and data:
+and the archived software: Yoshiaki Horiike and Shin Fujishiro, *Code and data for:
 Distinct weak antisymmetric interactions shape human brain functions as
 probability fluxes*, Zenodo,
 [doi:10.5281/zenodo.<concept-id>](https://doi.org/10.5281/zenodo.<concept-id>).

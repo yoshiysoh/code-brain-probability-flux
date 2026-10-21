@@ -1,7 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this code or data, please cite the paper below and this software."
-title: "Code and data: Distinct weak antisymmetric interactions shape human brain functions as probability fluxes"
-type: software
+message: "If you use this software, please cite the associated paper and, if convenient, this repository via its Zenodo DOI."
+title: "Code and data for: Distinct weak antisymmetric interactions shape human brain functions as probability fluxes"
 authors:
   - family-names: "Horiike"
     given-names: "Yoshiaki"
@@ -11,17 +10,10 @@ authors:
     given-names: "Shin"
     orcid: "https://orcid.org/0000-0002-0127-0761"
     affiliation: "Fukui Institute for Fundamental Chemistry, Kyoto University, Kyoto, Japan"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-21"
-license:
-  - BSD-3-Clause  # code
-  - CC-BY-4.0     # figures and figure panels
 repository-code: "https://github.com/yoshiysoh/code-brain-probability-flux"
-# doi: "10.5281/zenodo.<concept-id>"  # fill in after the Zenodo release
-identifiers:
-  - type: url
-    value: "https://arxiv.org/abs/2508.20961"
-    description: "arXiv preprint"
+license: BSD-3-Clause
 preferred-citation:
   type: article
   title: "Distinct weak antisymmetric interactions shape human brain functions as probability fluxes"
@@ -32,13 +24,9 @@ preferred-citation:
     - family-names: "Fujishiro"
       given-names: "Shin"
       orcid: "https://orcid.org/0000-0002-0127-0761"
-  # journal: "<Journal>"
-  # volume: <volume>
-  # start: <article number>
-  # doi: "<journal DOI>"
   year: 2025
-  url: "https://arxiv.org/abs/2508.20961"
   identifiers:
-    - type: doi
-      value: "10.48550/arXiv.2508.20961"
-      description: "arXiv preprint"
+    - type: other
+      value: "arXiv:2508.20961"
+      description: arXiv preprint
+  url: "https://arxiv.org/abs/2508.20961"
