@@ -1,7 +1,7 @@
 # Code and data for 'Distinct weak antisymmetric interactions shape human brain functions as probability fluxes'
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.20961-b31b1b.svg)](https://arxiv.org/abs/2508.20961)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.<concept-id>.svg)](https://doi.org/10.5281/zenodo.<concept-id>)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23530107.svg)](https://doi.org/10.5281/zenodo.23530107)
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Figures-CC_BY_4.0-lightgrey.svg)](LICENSE-figures)
 [![CI](https://github.com/yoshiysoh/code-brain-probability-flux/actions/workflows/ci.yml/badge.svg)](https://github.com/yoshiysoh/code-brain-probability-flux/actions/workflows/ci.yml)
@@ -276,7 +276,7 @@ If you use this code or data, please cite:
 and the archived software: Yoshiaki Horiike and Shin Fujishiro, *Code and data for:
 Distinct weak antisymmetric interactions shape human brain functions as
 probability fluxes*, Zenodo,
-[doi:10.5281/zenodo.<concept-id>](https://doi.org/10.5281/zenodo.<concept-id>).
+[doi:10.5281/zenodo.23530107](https://doi.org/10.5281/zenodo.23530107).
 See also [`CITATION.cff`](CITATION.cff).
 
 ## License
