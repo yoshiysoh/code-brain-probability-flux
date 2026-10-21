@@ -12,7 +12,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-0127-0761"
     affiliation: "Fukui Institute for Fundamental Chemistry, Kyoto University, Kyoto, Japan"
 version: "1.0.0"
-date-released: "YYYY-MM-DD"  # planned public release date
+date-released: "2026-10-21"
 license:
   - BSD-3-Clause  # code
   - CC-BY-4.0     # figures and figure panels
@@ -36,7 +36,7 @@ preferred-citation:
   # volume: <volume>
   # start: <article number>
   # doi: "<journal DOI>"
-  year: YYYY
+  year: 2025
   url: "https://arxiv.org/abs/2508.20961"
   identifiers:
     - type: doi
