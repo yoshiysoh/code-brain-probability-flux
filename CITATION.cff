@@ -11,6 +11,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-0127-0761"
     affiliation: "Fukui Institute for Fundamental Chemistry, Kyoto University, Kyoto, Japan"
 version: "1.0.1"
+doi: "10.5281/zenodo.23530107"
 date-released: "2026-10-21"
 repository-code: "https://github.com/yoshiysoh/code-brain-probability-flux"
 license: BSD-3-Clause
