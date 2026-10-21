@@ -55,9 +55,9 @@ TASK_NAMES_SHORT = [
 NUM_TASKS = len(TASK_NAMES_FULL)
 DATA_DIR = Path(__file__).resolve().parents[2] / "data"
 AGGREGATES = "aggregates.h5"
-# Panel sizes in inches: the full figure width (184 mm) and height (170 mm)
+# Panel sizes in inches: the full figure width (180 mm) and height (170 mm)
 # that the panels were sized for.
-FIG_WIDTH = 184 / 25.4
+FIG_WIDTH = 180 / 25.4
 FIG_HEIGHT = 170 / 25.4
 PANEL_FORMATS = ("pdf", "svg", "png")
 # Gap between panels in the composite figures (pt)
