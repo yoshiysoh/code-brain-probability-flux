@@ -58,7 +58,7 @@ notebook/                    one notebook per figure (read data/, write
                              figures/)
 data/                        group-level results behind every panel (HDF5)
                              and their SHA-256 hashes
-figures/                     unlabeled panels of every figure (PDF, SVG)
+figures/                     unlabeled panels of every figure (PDF, SVG, PNG)
 tests/                       pipeline and data checks
 ```
 
